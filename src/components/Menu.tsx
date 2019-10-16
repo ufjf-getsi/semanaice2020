@@ -30,10 +30,10 @@ import { RootState } from '../store';
 
 const routes = {
   appPages: [
-    { title: 'Schedule', path: '/', icon: calendar },
-    { title: 'Speakers', path: '/speakers', icon: contacts },
-    { title: 'Map', path: '/map', icon: map },
-    { title: 'About', path: '/about', icon: informationCircle }
+    { title: 'Atividades', path: '/', icon: calendar },
+    { title: 'Palestrantes', path: '/speakers', icon: contacts },
+    { title: 'Mapa', path: '/map', icon: map },
+    { title: 'Sobre', path: '/about', icon: informationCircle }
   ],
   loggedInPages: [
     { title: 'Account', path: '/account', icon: person },
@@ -72,20 +72,10 @@ const Menu: React.SFC<Props> = ({ isAuthenticated, history }) => {
       </IonHeader>
       <IonContent class="outer-content">
         <IonList>
-          <IonListHeader>Navigate</IonListHeader>
+          <IonListHeader>Navegação</IonListHeader>
           {renderlistItems(routes.appPages)}
         </IonList>
-        <IonList>
-          <IonListHeader>Account</IonListHeader>
-          {isAuthenticated ? renderlistItems(routes.loggedOutPages) : renderlistItems(routes.loggedInPages)}
-        </IonList>
-        <IonList>
-          <IonListHeader>Tutorial</IonListHeader>
-          <IonItem onClick={() => {}}>
-            <IonIcon slot="start" icon={hammer} />
-            Show Tutorial
-          </IonItem>
-        </IonList>
+        
       </IonContent>
     </IonMenu>
   );

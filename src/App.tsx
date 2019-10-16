@@ -25,11 +25,9 @@ const App = () => (
           <IonPage id="main">
             <Switch>
               <PrivateRoute path="/account" component={Account} />
-              <Route path="/tutorial" component={Tutorial} />
-              <Route path="/logout" />
-              <RequiresTutorialRoute path="/login" component={Login} />
+              
+              
               <RequiresTutorialRoute path="/support" component={Support} />
-              <RequiresTutorialRoute path="/signup" component={Signup} />
               <RequiresTutorialRoute path="/" component={AppStack} />
             </Switch>
           </IonPage>

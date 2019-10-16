@@ -31,15 +31,7 @@ const SpeakerDetail: React.SFC<Props> = ({ speakers, match, goBack }) => {
         <div>
           <img src={speaker.profilePic} alt={speaker.name}/>
           <br/>
-          <IonButton icon-only color="twitter">
-            <IonIcon icon={logoTwitter}></IonIcon>
-          </IonButton>
-          <IonButton icon-only color="github">
-            <IonIcon icon={logoGithub}></IonIcon>
-          </IonButton>
-          <IonButton icon-only color="instagram">
-            <IonIcon icon={logoInstagram}></IonIcon>
-          </IonButton>
+    
         </div>
 
         <p>{speaker.about}</p>

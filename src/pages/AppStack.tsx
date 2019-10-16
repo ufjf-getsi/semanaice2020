@@ -37,19 +37,19 @@ class AppStack extends React.Component<AppStackProps> {
           <IonTabBar slot="bottom">
             <IonTabButton tab="schedule" href="/schedule">
               <IonIcon icon={calendar} />
-              <IonLabel>Schedule</IonLabel>
+              <IonLabel>Atividades</IonLabel>
             </IonTabButton>
             <IonTabButton tab="speakers" href="/speakers">
               <IonIcon icon={contacts} />
-              <IonLabel>Speakers</IonLabel>
+              <IonLabel>Palestrantes</IonLabel>
             </IonTabButton>
             <IonTabButton tab="map" href="/map">
               <IonIcon icon={map} />
-              <IonLabel>Map</IonLabel>
+              <IonLabel>Mapa</IonLabel>
             </IonTabButton>
             <IonTabButton tab="about" href="/about">
               <IonIcon icon={informationCircle} />
-              <IonLabel>About</IonLabel>
+              <IonLabel>Sobre</IonLabel>
             </IonTabButton>
           </IonTabBar>
         </IonTabs>
