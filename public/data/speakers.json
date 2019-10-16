@@ -1,10 +1,184 @@
-[{
-  "id": 1,
-  "name": "Burt Bear",
-  "profilePic": "/assets/img/speakers/bear.jpg",
-  "twitter": "ionicframework",
-  "about": "Burt is a Bear.",
-  "location": "Everywhere",
-  "email": "burt@example.com",
-  "phone": "+1-541-754-3010"
-}]
+[
+  {
+    "ID": 1,
+    "Nome Divulgação": "Landerson Gomes",
+    "E-mail": "lsantos@embarcadero.com.br",
+    "Filiação/Vinculo": "Embarcadero",
+    "Minicurrículo": "MVP da Embarcadero  e Coord. Nacional do Programa Acadêmico da  Embarcadero."
+  },
+  {
+    "ID": 2,
+    "Nome Divulgação": "Yuri Medeiros da Silva Santos",
+    "E-mail": "yurimedeiros46@hotmail.com",
+    "Filiação/Vinculo": "Academia Gamer\nEngenharia Computacional",
+    "Minicurrículo": "Graduando em Engenharia Computacional UFJF. Professor do Curso de Pré Concursos (2016-2018). Professor do Centro de Estudos Múltiplo (2016-2018). Professor de Física da Rede Apogeu (2018-atual). Tutor do Programa de Universalização da Informática (2018-atual). Ligante da Liga de Medicina de Ciência de Tecnologia (2018-atual). Fundador e Professor da Academia Gamer (2019-atual), escola voltada para o ensino da criação de jogos na cidade de Matias Barbosa."
+  },
+  {
+    "ID": 3,
+    "Nome Divulgação": "Yuri Medeiros da Silva Santos",
+    "E-mail": "yurimedeiros46@hotmail.com",
+    "Filiação/Vinculo": "Academia Gamer\nEngenharia Computacional",
+    "Minicurrículo": "Graduando em Engenharia Computacional UFJF. Professor do Curso de Pré Concursos (2016-2018). Professor do Centro de Estudos Múltiplo (2016-2018). Professor de Física da Rede Apogeu (2018-atual). Tutor do Programa de Universalização da Informática (2018-atual). Ligante da Liga de Medicina de Ciência de Tecnologia (2018-atual). Fundador e Professor da Academia Gamer (2019-atual), escola voltada para o ensino da criação de jogos na cidade de Matias Barbosa."
+  },
+  {
+    "ID": 4,
+    "Nome Divulgação": "Mateus Coutinho Marim",
+    "E-mail": "mateus.marim@ice.ufjf.br",
+    "Filiação/Vinculo": "Ciência da Computação UFJF",
+    "Minicurrículo": "Mateus Coutinho Marim: cursa o último período de Ciência da Computação. Ex integrante da equipe de competição Rinobot, onde desenvolveu um sistema de visão computacional em C++ para o futebol de robôs autônomo. Voluntário no laboratório de linguística computacional FrameNet. Desenvolvedor no projeto do UFJF-MLTK, um framework para algoritmos de aprendizado de máquina em C++. Presidente do DA dos cursos de SI e CC (DAComp)."
+  },
+  {
+    "ID": 5,
+    "Nome Divulgação": "João Victor Balboa e Caio Vincenzo",
+    "E-mail": "jbalboa@ice.ufjf.br\ncaio.vincenzo@ice.ufjf.br",
+    "Filiação/Vinculo": "Sistemas de Informação UFJF",
+    "Minicurrículo": "Alunos de Sistemas de Informação na Universidade Federal de Juiz de Fora (UFJF), cursam atualmente o 5° período. Participam de projetos na área de Machine Learning, tendo experiência na linguagem Python e no uso da biblioteca Scikit Learn, principalmente para problemas de classificação."
+  },
+  {
+    "ID": 6,
+    "Nome Divulgação": "Vinicius Schettino",
+    "E-mail": "vinicius.schettino@ufjf.edu.br",
+    "Filiação/Vinculo": "Sistemas de Informação UFJF",
+    "Minicurrículo": "Graduado em Sistemas de Informação pela UFJF, e Mestrando em Engenharia de Software na mesma instituição. Experiência  em sistemas web com Python, PHP, PostgreSQL, Node.js, Elasticsearch, Redis, entre outras. Trabalha há mais de 8 anos com análise, projeto e desenvolvimento de sistemas para internet e gerenciamento de servidores e serviços Linux. Atualmente é servidor do quadro efetivo da UFJF, atuando na faculdade de engenharia com administração de sistemas e desenvolvimento. Participo de projetos de pesquisa e consultoria para empresas de médio e grande porte da região e de alcance nacional. Atuo em diversas áreas da Engenharia de Software, aplicando conhecimentos adquiridos e buscando me manter atualizado em tecnologias e tendências emergentes. As principais linhas de pesquisa são ecossistemas de software, desenvolvimento distribuído,  evolução de software, desenvolvimento ágil e banco de dados."
+  },
+  {
+    "ID": 7,
+    "Nome Divulgação": "Joshua Kritz",
+    "E-mail": "joshuakritz2@gmail.com",
+    "Filiação/Vinculo": "COPPE UFRJ",
+    "Minicurrículo": "Minicurrículo: Sou desenvolvedor de jogos. Formado em Matemática aplicada a ciencia da computação. Faço mestrado na COPPE em engenharia de dados e conhecimento. Estudo jogos no laboratório LUDES, tendo um foco em modelagem e entendimento de jogos, principalmente analógicos, mas juntos trabalhamos com todo tipo de conhecimento sobre jogos."
+  },
+  {
+    "ID": 8,
+    "Nome Divulgação": "Camila Saporetti",
+    "E-mail": "saporetticamila@gmail.com",
+    "Filiação/Vinculo": "PGMC",
+    "Minicurrículo": "Doutoranda em Modelagem Computacional na Universidade Federal de Juiz de Fora. Mestre em Modelagem Computacional pela Universidade Federal de Juiz de Fora. Graduada em Bacharelado em Ciências Exatas pelo Instituto de Ciências Exatas, em Engenharia Computacional pela Faculdade de Engenharia e em Ciência da Computação pelo Instituto de Ciências Exatas todos pela Universidade Federal de Juiz de Fora. Tem interesse na área de Ciência da Computação, com ênfase em Inteligência Computacional."
+  },
+  {
+    "ID": 9,
+    "Nome Divulgação": "Daniel Souza Ferreira,                        Giulia Fritz Lennaco e                         Yuri Ramos Corrêa",
+    "E-mail": "",
+    "Filiação/Vinculo": "GETEngComp UFJF",
+    "Minicurrículo": "Daniel, Giulia e Yuri são alunos do curso de graduação em Engenharia computacional e bolsistas do Grupo de Educação Tutorial da Engenharia Computacional"
+  },
+  {
+    "ID": 10,
+    "Nome Divulgação": "Patrick Barbosa",
+    "E-mail": "patrickbarbosa@ice.ufjf.br",
+    "Filiação/Vinculo": "Ciência da Computação UFJF",
+    "Minicurrículo": "Graduando em Ciência da Computação pela Universidade Federal de Juiz de Fora. Trabalha atualmente como desenvolvedor front-end, desenvolvendo aplicações web na Smarti9 Communication"
+  },
+  {
+    "ID": 11,
+    "Nome Divulgação": "",
+    "E-mail": "rtristaoporfirio@gmail.com",
+    "Filiação/Vinculo": "Sistemas de Informação IFSudeste MG",
+    "Minicurrículo": "Estudante de Sistemas de Informação pelo IF Sudeste MG, 2 participações na Global Game Jam usando a Godot Engine, monitor de algoritmo e estrutura de dados por 2 anos."
+  },
+  {
+    "ID": 12,
+    "Nome Divulgação": "Igor Knop & Alessandreia",
+    "E-mail": "",
+    "Filiação/Vinculo": "DCC UFJF",
+    "Minicurrículo": ""
+  },
+  {
+    "ID": 13,
+    "Nome Divulgação": "Carchedi",
+    "E-mail": "carchedi.ufjf@gmail.com",
+    "Filiação/Vinculo": "PGCC UFJF",
+    "Minicurrículo": "Formado como técnico em informática pelo CTU/UFJF e em Ciência da Computação pela UFJF, Luiz Carlos Carchedi possui o mestrado pela mesma instituição, desenvolvido com ênfase na área de multimídia. Durante seu mestrado, desenvolveu o sistema Avalia Online, uma ferramenta para a avaliação da oralidade na leitura de alunos em processo de alfaetização. Durante a graduação, em parceria com o departamento de anatomia da UFJF, desenvolveu projetos voltados para o uso da infomática no ensino de anatomia."
+  },
+  {
+    "ID": 14,
+    "Nome Divulgação": "Arthur Webler",
+    "E-mail": "arthur.webler@ice.ufjf.br",
+    "Filiação/Vinculo": "Ciência da Computação UFJF",
+    "Minicurrículo": "Arthur graduou-se em Ciência da Computação na UFJF em julho de 2019. Seu TCC e alguns trabalhos de disciplinas foram sobre aspectos das criptomoedas"
+  },
+  {
+    "ID": 15,
+    "Nome Divulgação": "Guilherme Ventura",
+    "E-mail": "gventura@itauba.net",
+    "Filiação/Vinculo": "Itaúba Assessoria e Consultoria Econômico-Financeira\nCESJF\nPUC-MG",
+    "Minicurrículo": "GUILHERME VENTURA é economista (UFJF) e Mestre em Economia (PUC-RJ). Professor do CES/JF. Coordenador dos Cursos de MBA em Gestão da PUC-MG. Sócio-diretor da Itaúba Serviços Especiais, empresa de assessoria e consultoria econômico-financeira."
+  },
+  {
+    "ID": 16,
+    "Nome Divulgação": "Thamyres Guedes",
+    "E-mail": "thataguedis@gmail.com",
+    "Filiação/Vinculo": "Yunikon",
+    "Minicurrículo": "CEO/Founder na Yunikon. Tecnóloga em Redes de Computadores por formação, desenvolvedora Front-End por experiência e startupeira. Trabalho há mais de 9 anos na área de desenvolvimento e hoje tenho uma empresa de desenvolvimento e uma startup no ramo alimentício."
+  },
+  {
+    "ID": 17,
+    "Nome Divulgação": "Pedro Neto",
+    "E-mail": "pedrogttsneto@gmail.com",
+    "Filiação/Vinculo": "CEO da Imersa\nSEBRAE-MG",
+    "Minicurrículo": "Graduado em administração pela UFJF, professor de empreendedorismo no SEBRAE – MG. Sempre trabalhou no campo de tecnologia e foi CMO de duas startups. Em 2017 criou a Imersa, uma startup incubada no CRITT que atua no campo de economia criativa e tem o objetivo de combinar tecnologias de inteligência artificial e machine learning em contextos de Big Data, com especialistas criativos para contar histórias engajadoras em diferentes plataformas, hoje conta com 17 colaboradores e está em fase de tração."
+  },
+  {
+    "ID": 18,
+    "Nome Divulgação": "André Felipe de Souza Mota, Gabriel de Oliveira Machado e Lucas Augusto Muller de Souza",
+    "E-mail": "",
+    "Filiação/Vinculo": "GETEngComp UFJF",
+    "Minicurrículo": "Gabriel é técnico em Informática Industrial pelo CEFET/MG, Bacharel em Ciências Exatas (UFJF), mestrando em Matemática (UFJF). André e Lucas são bolsistas do Grupo de Educação Tutorial da Engenharia Computacional. Todos são alunos do curso de Engenharia Computacional."
+  },
+  {
+    "ID": 19,
+    "Nome Divulgação": "Evandro Gaio",
+    "E-mail": "evandro.gaio@ice.ufjf.br",
+    "Filiação/Vinculo": "PGMC UFJF",
+    "Minicurrículo": "Engenheiro Mecânico(2017) e Mestre em Modelagem Computacional (2019) pela UFJF, com experiência científica internacional (CSU, UCSD e Simula), tem experiência na solução de problemas multifísicos através do método dos elementos finitos."
+  },
+  {
+    "ID": 20,
+    "Nome Divulgação": "Bárbara Quintela",
+    "E-mail": "barbara@ice.ufjf.br",
+    "Filiação/Vinculo": "DCC UFJF",
+    "Minicurrículo": "Professora Adjunta no Departamento de Ciência da Computação UFJF. Bacharel em Sistemas de Informação (2006) e Especialista em Engenharia de Software (2012) pelo CESJF. Mestre (2011) e Doutora (2015) em Modelagem Computacional pela UFJF com período sanduíche no LANL, EUA, e especialista em Docência do Ensino Superior (2016) pela UCDB. Atua principalmente em imunologia computacional utilizando equações diferenciais."
+  },
+  {
+    "ID": 21,
+    "Nome Divulgação": "Aldemon Bonifácio",
+    "E-mail": "aldemon.bonifacio@iclinic.com.br",
+    "Filiação/Vinculo": "iClinic",
+    "Minicurrículo": "Arquiteto de Desenvolvimento na iClinic e doutor em Modelagem Computacional pela UFJF. Atua há mais de 20 anos na área de tecnologia da informação, trabalhando com planejamento, avaliação e execução no desenvolvimento de novos programas, com manutenção e gerenciamento de banco de dados e com coordenação de grupos de trabalho. No período acadêmico empregou conhecimentos de inteligência artificial, programação distribuída e modelagem do concreto."
+  },
+  {
+    "ID": 22,
+    "Nome Divulgação": "Tiago Gouvêa",
+    "E-mail": "tiago@tiagogouvea.com.br",
+    "Filiação/Vinculo": "AppMasters\nGDG JF",
+    "Minicurrículo": "Programador Sênior e apaixonado por computadores desde a primeira vez que usou um. Responsável pelo Google Developers Group em Juiz de Fora e diretor da startup App Masters, voltada para o desenvolvimento de aplicativos e sistemas web. Atualmente fazendo parte da criação do ecossistema de startups Zero40, em Juiz de Fora. Gosta de fazer código e beber café."
+  },
+  {
+    "ID": 23,
+    "Nome Divulgação": "Lucas Amaral",
+    "E-mail": "lucas.amaral@thomsonreuters.com",
+    "Filiação/Vinculo": "Thomson Reuters",
+    "Minicurrículo": "Graduado em Tecnologia em Sistema para Internet pelo IFET – Sudeste de Minas Gerais e MBA em Gestão de Projetos de TI pela Universidade Federal de Juiz de Fora. \nHá seis anos atuando como desenvolvedor .NET e atualmente é líder técnico e especialista em desenvolvimento de software na Thomson Reuters em Juiz de Fora/MG."
+  },
+  {
+    "ID": 24,
+    "Nome Divulgação": "Alex Borges Vieira",
+    "E-mail": "alex.borges@ice.ufjf.br",
+    "Filiação/Vinculo": "DCC UFJF",
+    "Minicurrículo": "Alex Borges Vieira é professor associado do departamento de Ciência da Computação da Universidade Federal de Juiz de Fora. Vieira é pesquisador nível 2 do CNPq. Atualmente, atua como pesquisador visitante no Laboratório Nacional de Computação Científica (LNCC), com financiamento CNPq (PDS). Seus interesses de pesquisa incluem redes de sensores, IoT, caracterização, modelagem e análise de redes de computadores e ciência de redes. Vieira recebeu seu título de doutor em Ciência da Computação pela Universidade Federal de Minas Gerais em 2010. Ele é membro da IEEE, ACM e Sociedade Brasileira de Computação."
+  },
+  {
+    "ID": 25,
+    "Nome Divulgação": "Márcio Lopes",
+    "E-mail": "marcio@ipixel.com.br",
+    "Filiação/Vinculo": "Co-Founder e CCO na iClips",
+    "Minicurrículo": "Mestre em Sistemas Computacionais pela UFJF, Co-Founder e CCO na iClips"
+  },
+  {
+    "ID": 26,
+    "Nome Divulgação": "André Caetano",
+    "E-mail": "julia.alves@ipixel.com.br",
+    "Filiação/Vinculo": "iClips\nCiência da Computação UFJF",
+    "Minicurrículo": "Estudante de Ciência da Computação na UFJF e Desenvolvedor de Software na iClips, com experiência em .NET Core e Angular. Trabalhou na construção e manutenção de aplicações web e APIs RESTful e foi responsável por implementar uma arquitetura de microsserviços em projetos na iClips."
+  }
+]
