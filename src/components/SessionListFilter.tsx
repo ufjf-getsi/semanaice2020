@@ -48,20 +48,20 @@ export default class SessionListFilter extends Component<Props, State> {
         <IonHeader>
           <IonToolbar>
             <IonButtons slot="start">
-              <IonButton onClick={this.props.dismissModal}>Cancel</IonButton>
+              <IonButton onClick={this.props.dismissModal}>Cancelar</IonButton>
             </IonButtons>
             <IonTitle>
-              Filter Sessions
+              Sessões de filtro
             </IonTitle>
             <IonButtons slot="end">
-              <IonButton onClick={this.applyFilters} strong>Done</IonButton>
+              <IonButton onClick={this.applyFilters} strong>Aplicar</IonButton>
             </IonButtons>
           </IonToolbar>
         </IonHeader>
 
         <IonContent class="outer-content">
           <IonList>
-            <IonListHeader>Tracks</IonListHeader>
+            <IonListHeader>Filtros</IonListHeader>
             { this.props.allTracks.map((track) => (
               <IonItem key={track}>
                 <span slot="start" className="dot"></span>
@@ -77,7 +77,7 @@ export default class SessionListFilter extends Component<Props, State> {
           </IonList>
           <IonList>
             <IonItem onClick={this.resetFilters} detail={false} class="reset-filters">
-              Reset All Filters
+              Resetar todos os filtros
             </IonItem>
           </IonList>
         </IonContent>

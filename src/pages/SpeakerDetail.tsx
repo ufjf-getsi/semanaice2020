@@ -34,7 +34,8 @@ const SpeakerDetail: React.SFC<Props> = ({ speakers, match, goBack }) => {
     
         </div>
 
-        <p>{speaker.about}</p>
+        <p>{speaker.about}</p><br/>
+        <p>E-mail: {speaker.email}</p>
       </IonContent>
     </>
   );

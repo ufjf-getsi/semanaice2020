@@ -54,7 +54,7 @@ const SpeakerItem = ({ speaker, speakerSessions, history }: ItemProps) => {
             </IonItem>
           ))}
           <IonItem button href={`/speakers/speaker/${speaker.id}`} onClick={goToLink}>
-            <h3>About {speaker.name}</h3>
+            <h3>Sobre {speaker.name}</h3>
           </IonItem>
         </IonList>
       </IonCardContent>
@@ -64,11 +64,11 @@ const SpeakerItem = ({ speaker, speakerSessions, history }: ItemProps) => {
         <IonCol text-left size="4">
           <IonButton fill="clear" size="small" color="primary" onClick={() => openContact(speaker)}>
             <IonIcon slot="start" name='chatboxes'></IonIcon>
-            Contact
+            Contato
           </IonButton>
         </IonCol>
       </IonRow>
-    </IonCard>
+      </IonCard>
   );
 };
 
@@ -81,7 +81,7 @@ const SpeakerList = ({ speakers, sessions, history }: ListProps) => (
         <IonButtons slot="start">
           <IonMenuButton></IonMenuButton>
         </IonButtons>
-        <IonTitle>Speakers</IonTitle>
+        <IonTitle>Palestrantes</IonTitle>
       </IonToolbar>
     </IonHeader>
 

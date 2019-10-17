@@ -106,10 +106,10 @@ class SchedulePage extends Component<Props, State> {
 
             <IonSegment onIonChange={this.updateSegment}>
               <IonSegmentButton value="all" checked={this.state.segment === 'all'}>
-                All
+                Todos
               </IonSegmentButton>
               <IonSegmentButton value="favorites" checked={this.state.segment === 'favorites'}>
-                Favorites
+                Favoritos
               </IonSegmentButton>
             </IonSegment>
 
@@ -122,7 +122,7 @@ class SchedulePage extends Component<Props, State> {
 
           <IonToolbar color="primary">
             <IonSearchbar
-              placeholder="Search"
+              placeholder="Pesquisar"
               onIonChange={(e: CustomEvent) => this.props.setSearchText(e.detail.value)}
             />
           </IonToolbar>

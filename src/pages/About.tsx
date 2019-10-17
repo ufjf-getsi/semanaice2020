@@ -45,7 +45,7 @@ class About extends Component<Props, State> {
             <IonButtons slot="start">
               <IonMenuButton></IonMenuButton>
             </IonButtons>
-            <IonTitle>About</IonTitle>
+            <IonTitle>Sobre</IonTitle>
             <IonButtons slot="end">
               <IonButton icon-only onClick={this.presentPopover}>
                 <IonIcon slot="icon-only" name="more"></IonIcon>
@@ -69,9 +69,9 @@ class About extends Component<Props, State> {
             <img src="assets/img/ionic-logo-white.svg" alt="ionic logo" />
           </div>
           <div className="ion-padding about-info">
-            <h4>Ionic Conference</h4>
+            <h4>Semana do ICE</h4>
 
-            <IonList lines="none">
+            {/*<IonList lines="none">
               <IonItem>
                 <IonIcon icon={calendar} slot="start"></IonIcon>
                 <IonLabel>Date</IonLabel>
@@ -88,16 +88,11 @@ class About extends Component<Props, State> {
                   <IonSelectOption value="seattle">Seattle, WA</IonSelectOption>
                 </IonSelect>
               </IonItem>
-            </IonList>
+            </IonList>*/}
 
             <p>
-              The Ionic Conference is a one-day conference featuring talks from the
-              Ionic team. It is focused on Ionic applications being built with
-              Ionic 2. This includes migrating apps from Ionic 1 to Ionic 2,
-              Angular concepts, Webpack, Sass, and many other technologies used
-              in Ionic 2. Tickets are completely sold out, and we’re expecting
-              more than 1000 developers – making this the largest Ionic
-              conference ever!
+            A semana do ICE acontece anualmente há mais de 20 anos na Universidade Federal de Juiz de Fora (UFJF), sempre durante a Semana Nacional de Ciência e Tecnologia e apresenta programações específicas das semanas dos departamentos que fazem parte do Instituto (Computação, Matemática, Física, Química e Estatística) que promovem palestras, minicursos, uma Feira de Ciências e mais. O objetivo do evento é proporcionar aos alunos contato com o universo científico e profissional desta área de conhecimento, despertando neles o interesse pela inovação.
+A Semana do ICE é destinada aos alunos de Exatas pelas especificidades dos temas, no entanto, as atividades são abertas a toda comunidade acadêmica e aos estudantes de outras instituições.
             </p>
           </div>
         </IonContent>

@@ -13,7 +13,7 @@ const MapPage: React.SFC<Props> = ({ locations, mapCenter }) => (
         <IonButtons slot="start">
           <IonMenuButton></IonMenuButton>
         </IonButtons>
-        <IonTitle>Map</IonTitle>
+        <IonTitle>Mapa</IonTitle>
       </IonToolbar>
     </IonHeader>
 

@@ -114,11 +114,11 @@ class SessionListItem extends React.Component<Props, State> {
         <IonItemOptions>
           { this.props.listType === "favorites" ?
             <IonItemOption color="danger" onClick={this.removeFavoriteSession('Remove Favorite')}>
-              Remove
+              Remover
             </IonItemOption>
             :
             <IonItemOption color="favorite" onClick={this.addFavoriteSession}>
-              Favorite
+              Favorito
             </IonItemOption>
           }
         </IonItemOptions>
