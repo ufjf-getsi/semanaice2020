@@ -105,8 +105,8 @@ class SessionListItem extends React.Component<Props, State> {
           <IonLabel>
             <h3>{this.props.session.name}</h3>
             <p>
-              {format(this.props.session.dateTimeStart, "h:MM a")} &mdash;&nbsp;
-              {format(this.props.session.dateTimeEnd, "h:MM a")}:&nbsp;
+              {format(this.props.session.dateTimeStart, "HH:mm")} &mdash;&nbsp;
+              {format(this.props.session.dateTimeEnd, "HH:mm")} &rArr;&nbsp; Local: &nbsp;  
               {this.props.session.location}
             </p>
           </IonLabel>

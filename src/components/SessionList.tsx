@@ -52,7 +52,7 @@ const SessionList: React.SFC<Props> = ({sessions, hidden, listType }) => {
         <IonItemGroup key={`group-${index}`}>
           <IonItemDivider sticky>
             <IonLabel>
-              {format(parseDate(group.startTime), "h:MM a")}
+              {format(parseDate(group.startTime), "HH:mm")}
             </IonLabel>
           </IonItemDivider>
           { group.sessions.map((session: Session, sessionIndex: number) => (
