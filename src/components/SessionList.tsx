@@ -38,7 +38,7 @@ const SessionList: React.SFC<Props> = ({sessions, hidden, listType }) => {
     return (
       <IonList style={hidden ? {display: 'none'} : {}}>
         <IonListHeader>
-          Nenhuma sessão encontrada
+          Nenhuma atividade encontrada
         </IonListHeader>
       </IonList>
     );

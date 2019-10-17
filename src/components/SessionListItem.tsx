@@ -48,7 +48,7 @@ class SessionListItem extends React.Component<Props, State> {
     if (this.props.favoriteSessions.indexOf(this.props.session.id) !== - 1) {
       // woops, they already favorited it! What shall we do!?
       // prompt them to remove it
-      this.removeFavoriteSession('Favorite already added')();
+      this.removeFavoriteSession('Favorito já adicionado')();
     } else {
       // remember this session as a user favorite
       this.props.addFavorite(this.props.session.id);
@@ -56,7 +56,7 @@ class SessionListItem extends React.Component<Props, State> {
       // create an alert instance
       this.setState({
         showAlert: true,
-        alertHeader: 'Favorite Added',
+        alertHeader: 'Favorito Adicionado',
         alertButtons: [
           {
             text: 'OK',
@@ -71,14 +71,14 @@ class SessionListItem extends React.Component<Props, State> {
     this.setState({
       showAlert: true,
       alertHeader: title,
-      alertMessage: 'Would you like to remove this session from your favorites?',
+      alertMessage: 'Você gostaria de retirar esta atividade das suas favoritas?',
       alertButtons: [
         {
-          text: 'Cancel',
+          text: 'Cancelar',
           handler: this.dismissAlert
         },
         {
-          text: 'Remove',
+          text: 'Remover',
           handler: () => {
             this.props.removeFavorite(this.props.session.id);
             this.dismissAlert();
@@ -113,7 +113,7 @@ class SessionListItem extends React.Component<Props, State> {
         </IonItem>
         <IonItemOptions>
           { this.props.listType === "favorites" ?
-            <IonItemOption color="danger" onClick={this.removeFavoriteSession('Remove Favorite')}>
+            <IonItemOption color="danger" onClick={this.removeFavoriteSession('Remover Favorita')}>
               Remover
             </IonItemOption>
             :

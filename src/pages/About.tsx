@@ -66,7 +66,7 @@ class About extends Component<Props, State> {
 
         <IonContent>
           <div className="about-header">
-            <img src="assets/img/ionic-logo-white.svg" alt="ionic logo" />
+            <img src="assets/img/ice.jpg" alt="ICE UFJF Logo" />
           </div>
           <div className="ion-padding about-info">
             <h4>Semana do ICE</h4>
