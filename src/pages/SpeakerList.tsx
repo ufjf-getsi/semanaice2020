@@ -60,20 +60,7 @@ const SpeakerItem = ({ speaker, speakerSessions, history }: ItemProps) => {
       </IonCardContent>
 
       <IonRow no-padding justify-content-center>
-        <IonCol text-left size="4">
-          <IonButton fill="clear" size="small" color="primary"
-            onClick={() => window.open(`https://www.twitter.com/${speaker.twitter}`, '_blank')}
-          >
-            <IonIcon slot="start" name="logo-twitter"></IonIcon>
-            Tweet
-          </IonButton>
-        </IonCol>
-        <IonCol text-left size="4">
-          <IonButton fill="clear" size="small" color="primary" onClick={() => openSpeakerShare(speaker)}>
-            <IonIcon slot="start" name='share-alt'></IonIcon>
-            Share
-          </IonButton>
-        </IonCol>
+
         <IonCol text-left size="4">
           <IonButton fill="clear" size="small" color="primary" onClick={() => openContact(speaker)}>
             <IonIcon slot="start" name='chatboxes'></IonIcon>
