@@ -37,7 +37,8 @@ const SessionDetail: React.SFC<Props> = ({ sessions, speakers, match, goBack }) 
             </h4>
           ))}
           <p>
-            {formatTime(session.dateTimeStart, "HH:mm")} &mdash;&nbsp;
+
+            {formatTime(session.dateTimeStart, "D/M HH:mm")} &mdash;&nbsp;
             {formatTime(session.dateTimeEnd, "HH:mm")}
           </p>
           <p>{session.location}</p>

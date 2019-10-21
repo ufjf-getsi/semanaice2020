@@ -1,7 +1,7 @@
 [{
   "id": 1,
   "name": "Landerson Gomes",
-  "profilePic": "/assets/img/speakers/bear.jpg",
+  "profilePic": "/assets/img/speakers/landerson.jpg",
   "twitter": "",
   "about": "MVP da Embarcadero  e Coord. Nacional do Programa Acadêmico da  Embarcadero.",
   "location": "Embarcadero",
@@ -10,7 +10,7 @@
 }, {
   "id": 2,
   "name": "Yuri Medeiros da Silva Santos",
-  "profilePic": "/assets/img/speakers/cheetah.jpg",
+  "profilePic": "/assets/img/speakers/yuri.jfif",
   "twitter": "",
   "about": "Graduando em Engenharia Computacional UFJF. Professor do Curso de Pré Concursos (2016-2018). Professor do Centro de Estudos Múltiplo (2016-2018). Professor de Física da Rede Apogeu (2018-atual). Tutor do Programa de Universalização da Informática (2018-atual). Ligante da Liga de Medicina de Ciência de Tecnologia (2018-atual). Fundador e Professor da Academia Gamer (2019-atual), escola voltada para o ensino da criação de jogos na cidade de Matias Barbosa.",
   "location": "Academia Gamer\nEngenharia Computacional",
@@ -19,7 +19,7 @@
 }, {
   "id": 3,
   "name": "Mateus Coutinho Marim",
-  "profilePic": "/assets/img/speakers/duck.jpg",
+  "profilePic": "/assets/img/speakers/mateus.jpeg",
   "twitter": "",
   "about": "Mateus Coutinho Marim: cursa o último período de Ciência da Computação. Ex integrante da equipe de competição Rinobot, onde desenvolveu um sistema de visão computacional em C++ para o futebol de robôs autônomo. Voluntário no laboratório de linguística computacional FrameNet. Desenvolvedor no projeto do UFJF-MLTK, um framework para algoritmos de aprendizado de máquina em C++. Presidente do DA dos cursos de SI e CC (DAComp).",
   "location": "Ciência da Computação UFJF",
@@ -37,7 +37,7 @@
 }, {
   "id": 5,
   "name": "Vinicius Schettino",
-  "profilePic": "/assets/img/speakers/elephant.jpg",
+  "profilePic": "/assets/img/speakers/Vinicius.jpg",
   "twitter": "",
   "about": "Graduado em Sistemas de Informação pela UFJF, e Mestrando em Engenharia de Software na mesma instituição. Experiência  em sistemas web com Python, PHP, PostgreSQL, Node.js, Elasticsearch, Redis, entre outras. Trabalha há mais de 8 anos com análise, projeto e desenvolvimento de sistemas para internet e gerenciamento de servidores e serviços Linux. Atualmente é servidor do quadro efetivo da UFJF, atuando na faculdade de engenharia com administração de sistemas e desenvolvimento. Participo de projetos de pesquisa e consultoria para empresas de médio e grande porte da região e de alcance nacional. Atuo em diversas áreas da Engenharia de Software, aplicando conhecimentos adquiridos e buscando me manter atualizado em tecnologias e tendências emergentes. As principais linhas de pesquisa são ecossistemas de software, desenvolvimento distribuído,  evolução de software, desenvolvimento ágil e banco de dados.",
   "location": "Sistemas de Informação UFJF",
@@ -46,7 +46,7 @@
 }, {
   "id": 6,
   "name": "Joshua Kritz",
-  "profilePic": "/assets/img/speakers/giraffe.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Minicurrículo: Sou desenvolvedor de jogos. Formado em Matemática aplicada a ciencia da computação. Faço mestrado na COPPE em engenharia de dados e conhecimento. Estudo jogos no laboratório LUDES, tendo um foco em modelagem e entendimento de jogos, principalmente analógicos, mas juntos trabalhamos com todo tipo de conhecimento sobre jogos.",
   "location": "COPPE UFRJ",
@@ -55,7 +55,7 @@
 }, {
   "id": 7,
   "name": "Camila Saporetti",
-  "profilePic": "/assets/img/speakers/iguana.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Doutoranda em Modelagem Computacional na Universidade Federal de Juiz de Fora. Mestre em Modelagem Computacional pela Universidade Federal de Juiz de Fora. Graduada em Bacharelado em Ciências Exatas pelo Instituto de Ciências Exatas, em Engenharia Computacional pela Faculdade de Engenharia e em Ciência da Computação pelo Instituto de Ciências Exatas todos pela Universidade Federal de Juiz de Fora. Tem interesse na área de Ciência da Computação, com ênfase em Inteligência Computacional.",
   "location": "PGMC",
@@ -64,7 +64,7 @@
 }, {
   "id": 8,
   "name": "Daniel Souza Ferreira",
-  "profilePic": "/assets/img/speakers/kitten.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Daniel, Giulia e Yuri são alunos do curso de graduação em Engenharia computacional e bolsistas do Grupo de Educação Tutorial da Engenharia Computacional",
   "location": "GETEngComp UFJF",
@@ -73,7 +73,7 @@
 }, {
   "id": 9,
   "name": "Patrick Barbosa",
-  "profilePic": "/assets/img/speakers/lion.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Graduando em Ciência da Computação pela Universidade Federal de Juiz de Fora. Trabalha atualmente como desenvolvedor front-end, desenvolvendo aplicações web na Smarti9 Communication",
   "location": "Ciência da Computação UFJF",
@@ -82,7 +82,7 @@
 }, {
   "id": 10,
   "name": "",
-  "profilePic": "/assets/img/speakers/mouse.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Estudante de Sistemas de Informação pelo IF Sudeste MG, 2 participações na Global Game Jam usando a Godot Engine, monitor de algoritmo e estrutura de dados por 2 anos.",
   "location": "Sistemas de Informação IFSudeste MG",
@@ -91,7 +91,7 @@
 }, {
   "id": 11,
   "name": "Igor Knop & Alessandreia",
-  "profilePic": "/assets/img/speakers/puppy.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "",
   "location": "DCC UFJF",
@@ -100,7 +100,7 @@
 }, {
   "id": 12,
   "name": "Carchedi",
-  "profilePic": "/assets/img/speakers/rabbit.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Formado como técnico em informática pelo CTU/UFJF e em Ciência da Computação pela UFJF, Luiz Carlos Carchedi possui o mestrado pela mesma instituição, desenvolvido com ênfase na área de multimídia. Durante seu mestrado, desenvolveu o sistema Avalia Online, uma ferramenta para a avaliação da oralidade na leitura de alunos em processo de alfaetização. Durante a graduação, em parceria com o departamento de anatomia da UFJF, desenvolveu projetos voltados para o uso da infomática no ensino de anatomia.",
   "location": "PGCC UFJF",
@@ -109,7 +109,7 @@
 }, {
   "id": 13,
   "name": "Arthur Webler",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Arthur graduou-se em Ciência da Computação na UFJF em julho de 2019. Seu TCC e alguns trabalhos de disciplinas foram sobre aspectos das criptomoedas",
   "location": "Ciência da Computação UFJF",
@@ -118,7 +118,7 @@
 }, {
   "id": 14,
   "name": "Guilherme Ventura",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "GUILHERME VENTURA é economista (UFJF) e Mestre em Economia (PUC-RJ). Professor do CES/JF. Coordenador dos Cursos de MBA em Gestão da PUC-MG. Sócio-diretor da Itaúba Serviços Especiais, empresa de assessoria e consultoria econômico-financeira.",
   "location": "Itaúba Assessoria e Consultoria Econômico-Financeira\nCESJF\nPUC-MG",
@@ -127,7 +127,7 @@
 }, {
   "id": 15,
   "name": "Thamyres Guedes",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "CEO/Founder na Yunikon. Tecnóloga em Redes de Computadores por formação, desenvolvedora Front-End por experiência e startupeira. Trabalho há mais de 9 anos na área de desenvolvimento e hoje tenho uma empresa de desenvolvimento e uma startup no ramo alimentício.",
   "location": "Yunikon",
@@ -136,7 +136,7 @@
 }, {
   "id": 16,
   "name": "Pedro Neto",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Graduado em administração pela UFJF, professor de empreendedorismo no SEBRAE – MG. Sempre trabalhou no campo de tecnologia e foi CMO de duas startups. Em 2017 criou a Imersa, uma startup incubada no CRITT que atua no campo de economia criativa e tem o objetivo de combinar tecnologias de inteligência artificial e machine learning em contextos de Big Data, com especialistas criativos para contar histórias engajadoras em diferentes plataformas, hoje conta com 17 colaboradores e está em fase de tração.",
   "location": "CEO da Imersa SEBRAE-MG",
@@ -145,7 +145,7 @@
 }, {
   "id": 17,
   "name": "André Felipe de Souza Mota, Gabriel de Oliveira Machado e Lucas Augusto Muller de Souza",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Gabriel é técnico em Informática Industrial pelo CEFET/MG, Bacharel em Ciências Exatas (UFJF), mestrando em Matemática (UFJF). André e Lucas são bolsistas do Grupo de Educação Tutorial da Engenharia Computacional. Todos são alunos do curso de Engenharia Computacional. ",
   "location": "GETEngComp UFJF",
@@ -154,7 +154,7 @@
 }, {
   "id": 18,
   "name": "Evandro Gaio",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Engenheiro Mecânico(2017) e Mestre em Modelagem Computacional (2019) pela UFJF, com experiência científica internacional (CSU, UCSD e Simula), tem experiência na solução de problemas multifísicos através do método dos elementos finitos.",
   "location": "PGMC UFJF",
@@ -163,7 +163,7 @@
 }, {
   "id": 19,
   "name": "Bárbara Quintela",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Professora Adjunta no Departamento de Ciência da Computação UFJF. Bacharel em Sistemas de Informação (2006) e Especialista em Engenharia de Software (2012) pelo CESJF. Mestre (2011) e Doutora (2015) em Modelagem Computacional pela UFJF com período sanduíche no LANL, EUA, e especialista em Docência do Ensino Superior (2016) pela UCDB. Atua principalmente em imunologia computacional utilizando equações diferenciais. ",
   "location": "DCC UFJF",
@@ -172,7 +172,7 @@
 }, {
   "id": 20,
   "name": "Aldemon Bonifácio",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Arquiteto de Desenvolvimento na iClinic e doutor em Modelagem Computacional pela UFJF. Atua há mais de 20 anos na área de tecnologia da informação, trabalhando com planejamento, avaliação e execução no desenvolvimento de novos programas, com manutenção e gerenciamento de banco de dados e com coordenação de grupos de trabalho. No período acadêmico empregou conhecimentos de inteligência artificial, programação distribuída e modelagem do concreto.",
   "location": "iClinic",
@@ -181,7 +181,7 @@
 }, {
   "id": 21,
   "name": "Tiago Gouvêa",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Programador Sênior e apaixonado por computadores desde a primeira vez que usou um. Responsável pelo Google Developers Group em Juiz de Fora e diretor da startup App Masters, voltada para o desenvolvimento de aplicativos e sistemas web. Atualmente fazendo parte da criação do ecossistema de startups Zero40, em Juiz de Fora. Gosta de fazer código e beber café.",
   "location": "AppMasters GDG JF",
@@ -190,7 +190,7 @@
 }, {
   "id": 22,
   "name": "Lucas Amaral",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Graduado em Tecnologia em Sistema para Internet pelo IFET – Sudeste de Minas Gerais e MBA em Gestão de Projetos de TI pela Universidade Federal de Juiz de Fora. Há seis anos atuando como desenvolvedor .NET e atualmente é líder técnico e especialista em desenvolvimento de software na Thomson Reuters em Juiz de Fora/MG.",
   "location": "Thomson Reuters",
@@ -199,7 +199,7 @@
 }, {
   "id": 23,
   "name": "Alex Borges",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Alex Borges Vieira é professor associado do departamento de Ciência da Computação da Universidade Federal de Juiz de Fora. Vieira é pesquisador nível 2 do CNPq. Atualmente, atua como pesquisador visitante no Laboratório Nacional de Computação Científica (LNCC), com financiamento CNPq (PDS). Seus interesses de pesquisa incluem redes de sensores, IoT, caracterização, modelagem e análise de redes de computadores e ciência de redes. Vieira recebeu seu título de doutor em Ciência da Computação pela Universidade Federal de Minas Gerais em 2010. Ele é membro da IEEE, ACM e Sociedade Brasileira de Computação.",
   "location": "",
@@ -208,7 +208,7 @@
 }, {
   "id": 24,
   "name": "Márcio Lopes",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Arquitetura SaaS e sua influência na escalabilidade do modelo de negócio das maiores empresas - da iClips à Netflix",
   "location": "",
@@ -217,7 +217,7 @@
 }, {
   "id": 25,
   "name": "André Caetano",
-  "profilePic": "/assets/img/speakers/turtle.jpg",
+  "profilePic": "/assets/img/speakers/default.jfif",
   "twitter": "",
   "about": "Estudante de Ciência da Computação na UFJF e Desenvolvedor de Software na iClips, com experiência em .NET Core e Angular. Trabalhou na construção e manutenção de aplicações web e APIs RESTful e foi responsável por implementar uma arquitetura de microsserviços em projetos na iClips.",
   "location": "",

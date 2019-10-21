@@ -170,25 +170,7 @@ class SchedulePage extends Component<Props, State> {
           duration={2000}
           onDidDismiss={() => this.setState(() => ({ showLoading: false }))}
         />
-        <IonFab ref={this.ionFabRef} slot="fixed" vertical="bottom" horizontal="end">
-          <IonFabButton>
-            <IonIcon icon={share} />
-          </IonFabButton>
-          <IonFabList side="top">
-            <IonFabButton color="vimeo" onClick={() => this.openSocial('Vimeo')}>
-              <IonIcon icon={logoVimeo} />
-            </IonFabButton>
-            <IonFabButton color="google" onClick={() => this.openSocial('Google+')}>
-              <IonIcon icon={logoGoogleplus} />
-            </IonFabButton>
-            <IonFabButton color="twitter" onClick={() => this.openSocial('Twitter')}>
-              <IonIcon icon={logoTwitter} />
-            </IonFabButton>
-            <IonFabButton color="facebook" onClick={() => this.openSocial('Facebook')}>
-              <IonIcon icon={logoFacebook} />
-            </IonFabButton>
-          </IonFabList>
-        </IonFab>
+        
       </>
     );
   }
