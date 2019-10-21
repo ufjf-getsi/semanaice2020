@@ -1,6 +1,6 @@
 {
-  "name": "Ionic Conference",
-  "short_name": "Ionic Conf",
+  "name": "Semana do ICE 2019",
+  "short_name": "Semana ICE'19",
   "start_url": "/schedule",
   "display": "standalone",
   "icons": [{
